@@ -1,5 +1,10 @@
 ## Grant Status Project
 
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/89361fdb-edd5-4a48-a16c-cf9f0e6d4166" alt="Image 1" style="width: 45%; height: auto;" />
+  <img src="https://github.com/user-attachments/assets/d2812aa5-b965-4035-b6cc-e8d134bbdb55" alt="Image 2" style="width: 45%; height: auto;" />
+</div>
+
 ## Getting Started
 
 After cloning, open two terminals and run the following commands in the root of the project
