@@ -31,7 +31,7 @@ After all, open [http://localhost:3000](http://localhost:3000) with your browser
 
 ## Design Decisions, Assumptions, and Known Limitations
 
-### **Design**
+### **Design: shadcn/ui**
 
 Before building the project, I took the time to research the latest design systems that the community has been focusing on. I consulted with colleagues, explored community resources like Rocketseat, and after analyzing the benefits, I decided to use **shadcn/ui** components, even though I wasn’t familiar with them beforehand. Instead of simply installing a design library, we copied the components into the project, giving us full flexibility to customize them as needed.
 
